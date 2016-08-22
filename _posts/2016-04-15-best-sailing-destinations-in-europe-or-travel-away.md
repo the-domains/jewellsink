@@ -1,10 +1,9 @@
 ---
-datePublished: '2016-07-30T04:46:24.028Z'
+datePublished: '2016-08-22T11:06:44.751Z'
 sourcePath: _posts/2016-04-15-best-sailing-destinations-in-europe-or-travel-away.md
 inFeed: true
-isBasedOnUrl: 'http://travelaway.me/sailing-destinations-europe/'
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - sailing
   - riviera
@@ -33,7 +32,7 @@ author:
   - name: Suki F
     url: 'http://americatraveldestinationguide.com'
     avatar: {}
-dateModified: '2016-07-30T04:46:23.615Z'
+dateModified: '2016-08-22T11:06:44.278Z'
 title: Best Sailing Destinations in Europe | Travel Away
 app_links: []
 publisher:
@@ -54,6 +53,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: best-sailing-destinations-in-europe-or-travel-away/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 

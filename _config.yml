@@ -12,3 +12,7 @@ color:
     - '#FFFFFF'
     - '#FF9800'
 name: JewellsInk
+navigation:
+  - name: Best Sailing Destinations in Europe | Travel Away
+    id: bc439861-bcd1-4725-801e-c6fcfa0f7dde
+    type: content
